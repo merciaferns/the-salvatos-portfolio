@@ -1,5 +1,4 @@
-# the-salvatos-portfolio
-<!DOCTYPE html>
+# The-SalvatOS
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -235,7 +234,6 @@
                 </div>
             </section>
         </div>
-    </main>
 
     <footer class="bg-gothic-gray mt-12 py-6 text-center text-gray-500 text-sm">
         <p>&copy; 2025 The SalvatOS. Built with dark elegance.</p>
@@ -293,5 +291,3 @@
         }
    
 </script>
-</body>
-</html>
