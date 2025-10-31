@@ -219,7 +219,7 @@
                     <!-- Email -->
                     <div class="flex items-center space-x-4 p-3 bg-gray-800 rounded-lg shadow-inner border border-gray-700">
                         <i class="fas fa-envelope text-vampire-red text-2xl w-8 text-center"></i>
-                        <span class="text-gray-300">Email:merciaferns2009@gmail.com</span>
+                        <span class="text-gray-500">Email:merciaferns2009@gmail.com</span>
                     </div>
                     <!-- LinkedIn -->
                     <div class="flex items-center space-x-4 p-3 bg-gray-800 rounded-lg shadow-inner border border-gray-700">
